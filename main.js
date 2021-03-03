@@ -13,6 +13,8 @@ $(function(){
             alert("Please Fill Out All The Fields");
             return false;
         }
-        $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      while (true) {  
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      }
     });
 });
