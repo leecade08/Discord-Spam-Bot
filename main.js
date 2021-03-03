@@ -13,11 +13,7 @@ $(function(){
             alert("Please Fill Out All The Fields");
             return false;
         }
-      while (true) {  
-        var mil = 5000;
       $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
-        mil
-      }
       }
     });
 });
