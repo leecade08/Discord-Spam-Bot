@@ -14,6 +14,31 @@ $(function(){
             return false;
         }
         $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
-
+        $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+      $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
     });
 });
