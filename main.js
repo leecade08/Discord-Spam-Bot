@@ -14,7 +14,10 @@ $(function(){
             return false;
         }
       while (true) {  
+        var mil = 1000;
       $.post(link, {"content": content, "username": username, "avatar_url": avatar,});
+        mil
+      }
       }
     });
 });
